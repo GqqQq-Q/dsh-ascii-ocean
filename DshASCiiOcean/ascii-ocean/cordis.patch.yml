@@ -1,0 +1,4 @@
+- insert:
+    - id: ascii-ocean
+      name: dsh-ascii-ocean
+      config: {}

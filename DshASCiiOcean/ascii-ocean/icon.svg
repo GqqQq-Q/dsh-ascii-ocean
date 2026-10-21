@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="ASCII Ocean">
+  <rect width="128" height="128" rx="24" fill="#070a12"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600">
+    <g fill="#3d5ba8">
+      <text x="10" y="112">:</text><text x="22" y="112">;</text><text x="34" y="112">S</text>
+      <text x="46" y="112">%</text><text x="58" y="112">X</text><text x="70" y="112">8</text>
+      <text x="82" y="112">#</text><text x="94" y="112">S</text><text x="106" y="112">t</text>
+    </g>
+    <g fill="#8fa8e8">
+      <text x="10" y="88">%</text><text x="22" y="88">X</text><text x="34" y="88">S</text>
+      <text x="46" y="88">8</text><text x="58" y="88">%</text><text x="70" y="88">S</text>
+      <text x="82" y="88">X</text><text x="94" y="88">%</text><text x="106" y="88">:</text>
+    </g>
+    <g fill="#cfe4ff">
+      <text x="34" y="64">X</text><text x="46" y="64">X</text><text x="58" y="64">S</text>
+      <text x="70" y="64">8</text><text x="82" y="64">:</text>
+    </g>
+    <g fill="#6ee6ff">
+      <text x="46" y="40">o</text><text x="70" y="40">o</text><text x="58" y="30">%</text>
+      <text x="16" y="58">.</text><text x="104" y="58">.</text>
+    </g>
+  </g>
+</svg>
