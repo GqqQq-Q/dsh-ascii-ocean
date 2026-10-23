@@ -1,5 +1,6 @@
 # ASCII Ocean · DSH 背景动画插件
 
+ASCII shark动画原作者：https://github.com/stackedlol/ascii-sharks
 v0.1
 把 ascii-sharks 动画做成 DSH 会话中栏的活体背景：
 
