@@ -1,7 +1,7 @@
 {
   "name": "dsh-ascii-ocean",
-  "version": "0.4.0",
-  "description": "Red koi and goldfish drawn with Chinese characters, swimming behind the New Session hero.",
+  "version": "0.5.0",
+  "description": "Red koi and goldfish drawn with Chinese characters, swimming behind the session — the water can extend across the sidebar too.",
   "type": "module",
   "main": "index.js",
   "exports": {
@@ -30,6 +30,17 @@
     "locale/*.json",
     "icon.svg"
   ],
-  "keywords": ["dsh","dsh-plugin","deepseek-harness","ascii-art","animation","canvas","koi"],
-  "license": "MIT"
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "ascii-art",
+    "animation",
+    "canvas",
+    "koi"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/client.smoke.mjs"
+  }
 }
