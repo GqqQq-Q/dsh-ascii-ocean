@@ -1,7 +1,7 @@
 {
   "name": "dsh-ascii-ocean",
-  "version": "0.4.0",
-  "description": "Red koi and goldfish drawn with Chinese characters, swimming behind the New Session hero.",
+  "version": "0.6.5",
+  "description": "ASCII ocean behind the New Session hero: sharks, hammerhead sharks, koi and goldfish drawn as character cells.",
   "type": "module",
   "main": "index.js",
   "exports": {
@@ -30,6 +30,15 @@
     "locale/*.json",
     "icon.svg"
   ],
-  "keywords": ["dsh","dsh-plugin","deepseek-harness","ascii-art","animation","canvas","koi"],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "ascii-art",
+    "animation",
+    "canvas",
+    "shark",
+    "hammerhead"
+  ],
   "license": "MIT"
 }
