@@ -19,4 +19,4 @@ v0.4.0
 3.浅色主题下首屏背景过暗，文字几乎看不清
 4.控制面板点击水里的生物→鲨鱼（原版）→新建会话 新建对话背景仍然是金鱼和鲤鱼
 
-<img src="https://kingofsoysauce.github.io/dsh-skin-market/skin-screenshots/GqqQq-Q__ASCII-ocean-DSHplugin--DshASCiiOcean--ascii-ocean/f29de0458dce9d476dbf8e69a6817c588fa1c90f/home.gif" width="720" alt="ASCII Ocean">
+<img src="assets/preview.gif" width="720" alt="ASCII Ocean">
