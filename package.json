@@ -1,6 +1,6 @@
 {
   "name": "dsh-ascii-ocean",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "description": "Red koi and goldfish drawn with Chinese characters, swimming behind the New Session hero.",
   "type": "module",
   "main": "index.js",
